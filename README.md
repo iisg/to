@@ -8,7 +8,7 @@ Celem laboratorium jest poznanie metod ulepszenia struktury kodu źródłowego w
 
 Wykonaj
 
-    git clone https://git.iisg.agh.edu.pl/dydaktyka-to/labs-public.git --single-branch -b lab3 lab3
+    git clone https://github.com/iisg/to --single-branch -b lab3 lab3
 
 ### Jeśli repozytorium jest już sklonowane
 
